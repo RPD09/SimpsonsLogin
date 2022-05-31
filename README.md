@@ -1,4 +1,6 @@
-# Simpsons Login APP
+# Simpsons Login APP with DB implemented
+
+*You need to add the DB to your SSMS since its not a hosted DB (Its the SimpsonsLogin.bak file)*
 
 Simple login system, Simpsons Version.<br>
 Its only possible to Login, you cant register.
